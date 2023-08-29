@@ -1,0 +1,16 @@
+100 points
+HTML and CSS are the two primary languages you need to know to build a web site. Although there are more advanced ways of building a site, all web developers must understand HTML and CSS, regardless of the other technologies they use.
+
+You can either watch the video link or practice the html and css from w3schools.com Links are attached below.
+With the video link work on the exercise and finish learning basics of HTML and CSS. Make notes on whatever you are learning.
+
+If you already know html and CSS you can directly use the crash course for brush up and solve the assignment.
+
+https://www.youtube.com/watch?v=mU6anWqZJcc
+https://www.w3schools.com/html/default.asp?authuser=0
+https://www.w3schools.com/css/default.asp?authuser=0
+
+crash course 
+https://www.youtube.com/watch?v=D-h8L5hgW-w
+
+assignment - https://docs.google.com/document/d/1ZywufCHNf8_I3Gyl5IitL570xtpwxP9ZI1RezmN6a2Q/edit
